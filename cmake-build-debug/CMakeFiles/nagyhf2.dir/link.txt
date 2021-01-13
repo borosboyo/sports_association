@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/nagyhf2.dir/sportegyesulet.cpp.o CMakeFiles/nagyhf2.dir/main.cpp.o CMakeFiles/nagyhf2.dir/memtrace.cpp.o CMakeFiles/nagyhf2.dir/stringek.cpp.o CMakeFiles/nagyhf2.dir/tesztek.cpp.o  -o nagyhf2 

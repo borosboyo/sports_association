@@ -1,0 +1,5 @@
+Labdarugas Ujfocicsapat 23 2
+Labdarugas Ujcsapat 23 2
+Kezilabda Ujkezicsapat 24 50000
+Kosarlabda Ujkosarcsapat 25 10
+Labdarugas Fasz 0 2

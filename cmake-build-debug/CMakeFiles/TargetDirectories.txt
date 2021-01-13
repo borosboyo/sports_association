@@ -1,0 +1,3 @@
+/home/borosboyo/Documents/nagyhf2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/borosboyo/Documents/nagyhf2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/borosboyo/Documents/nagyhf2/cmake-build-debug/CMakeFiles/nagyhf2.dir
