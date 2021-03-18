@@ -1,2 +1,2 @@
 # sports_association
-Small university project without documentation
+Small university project with documentation in Hungarian included
